@@ -41,7 +41,7 @@ __Werkstudent - PHP/Linux Programmierer bei Bentomax GmbH__
 __CAU Kiel - Archäoinformatik - Abgang ohne Abschluss__
 
 `2019 - 2021`
-__IT - Administrator Bentomax GmbH
+__IT - Techniker/Administrator Bentomax GmbH
 Projektbasiert im Forschungsinstitut GERICS - HEREON__
 
 ## Zertifikate
