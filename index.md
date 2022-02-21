@@ -29,7 +29,7 @@ Meine Tochter, homelab, Docker und Kubernetes, Wordpress Blogging, FOSS und Netz
 __Allgemeine Hochschulreife, Berufsgymnasium Ravensberg Kiel.__
 
 `2013 - 2015`
-__CAU Kiel - 2013 - 2015  Geowissenschaften__
+__CAU Kiel Geowissenschaften__
 
 `2016 - 2018`
 __Hilfswissenschaftler - Administration von Datenbanken__
