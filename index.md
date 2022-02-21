@@ -41,7 +41,8 @@ __Werkstudent - PHP/Linux Programmierer bei Bentomax GmbH__
 __2015 - 2019 Archäoinformatik - Abgang ohne Abschluss__
 
 `2019 - 2021`
-__2015 - 2019 IT - Techniker und Berater bei Bentomax GmbH - Projektbasiert im Forschungsinstitut GERICS - HEREON__
+__2015 - 2019 IT - Techniker und Berater bei Bentomax GmbH
+Projektbasiert im Forschungsinstitut GERICS - HEREON__
 
 ## Zertifikate
 
