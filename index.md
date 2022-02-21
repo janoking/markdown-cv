@@ -49,9 +49,6 @@ Projektbasiert im Forschungsinstitut GERICS - HEREON__
 `2021`
 Linuxzertifikat LPIC-1 
 
-`vsl. April 2021`
-Linuxzertifikat LPIC-2
-
 ### Sprachkenntnisse
 Duetsch, Muttersprache
 Englisch, Verhandlungssicher
