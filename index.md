@@ -1,3 +1,7 @@
+---
+layout: cv
+title: Isaac Newtons's CV
+---
 
 # Jan Oehlerking
 IT Techniker und Linuxadministrator.
