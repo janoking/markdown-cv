@@ -6,9 +6,6 @@ title: Jan Oehlerkin cv
 # Jan Oehlerking
 IT Techniker und Linuxadministrator.
 
-![Screenshot_2022-02-21-02-51-54_1920x1080](https://user-images.githubusercontent.com/20641800/154968258-620eb6c3-66d9-4f10-966e-30d25342eaaa.png)
-
-
 <div id="webaddress">
 <a href="j.oehlerking@bitschieber.com">j.oehlerking@bitschieber.com</a>
 | <a href="https://bitschieber.com">Mein Blog: bitschieber.com</a>
