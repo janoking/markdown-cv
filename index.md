@@ -29,7 +29,7 @@ Meine Tochter, homelab, Docker und Kubernetes, Wordpress Blogging, FOSS und Netz
 __Allgemeine Hochschulreife, Berufsgymnasium Ravensberg Kiel.__
 
 `2013 - 2015`
-__2013 - 2015  Geowissenschaften__
+__CAU Kiel - 2013 - 2015  Geowissenschaften__
 
 `2016 - 2018`
 __Hilfswissenschaftler - Administration von Datenbanken__
@@ -38,7 +38,7 @@ __Hilfswissenschaftler - Administration von Datenbanken__
 __Werkstudent - PHP/Linux Programmierer bei Bentomax GmbH__
 
 `2015 - 2019`
-__2015 - 2019 Archäoinformatik - Abgang ohne Abschluss__
+__CAU Kiel - Archäoinformatik - Abgang ohne Abschluss__
 
 `2019 - 2021`
 __IT - Administrator Bentomax GmbH
