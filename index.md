@@ -7,8 +7,8 @@ title: Jan Oehlerkin cv
 IT Techniker und Linuxadministrator.
 
 <div id="webaddress">
-<a href="mailto:j.oehlerking@bitschieber.com">j.oehlerking@bitschieber.com</a>
-| <a href="http://bitschieber.com">Mein Blog</a>
+<a href="j.oehlerking@bitschieber.com">j.oehlerking@bitschieber.com</a>
+| <a href="https://bitschieber.com">Mein Blog: bitschieber.com</a>
 </div>
 
 
