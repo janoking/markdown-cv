@@ -31,22 +31,23 @@ __Allgemeine Hochschulreife, Berufsgymnasium Ravensberg Kiel.__
 `2013 - 2015`
 __2013 - 2015  Geowissenschaften__
 
-`2015 - 2019`
+`2016 - 2018`
 __Hilfswissenschaftler - Administration von Datenbanken__
 
-`Feb - August 2019` 
+`2018 - 2019` 
 __Werkstudent - PHP/Linux Programmierer bei Bentomax GmbH__
 
 `2015 - 2019`
 __2015 - 2019 Archäoinformatik - Abgang ohne Abschluss__
 
-`2019 - Juli 2021`
+`2019 - 2021`
 __2015 - 2019 IT - Techniker und Berater bei Bentomax GmbH - Projektbasiert im Forschungsinstitut GERICS - HEREON__
 
 ## Zertifikate
 
 `2021`
 Linuxzertifikat LPIC-1 
+
 `vsl. April 2021`
 Linuxzertifikat LPIC-2
 
