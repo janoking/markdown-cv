@@ -1,91 +1,67 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Jan Oehlerking
+IT Techniker und Linuxadministrator.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="j.oehlerking@bitschieber.com">j.oehlerking@bitschieber.com</a>
+| <a href="http://bitschieber.com">Mein Blog</a>
 </div>
 
 
-## Currently
+## Aktuell
 
-Standing on the shoulders of giants
+In Elternzeit bis zm 01.03.22
 
-### Specialized in
+### Erfahrungen in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Linux und Windows Serveradministration, NAS, Active Directory, Virtualisierungen, Ansible (KVM, Vmware, Virtualbox) Netzwerk: VPN (WireGuard, OpenVPN), Firewall und Security (pfsense), VLAN, Cisco Identity Services Engine.
 
+mehrere Jahre Berufserfahrung in Clientsupport Linux, MacOS und Windows.
 
-### Research interests
+### Sonstige interessen und Hobbys
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Meine Tochter, homelab, Docker und Kubernetes, Wordpress Blogging, FOSS und Netzpolitik, CCC, viel Fahrradfahren.
 
 
+## Bildung und Berufsweg
 
-## Awards
+`2010 - 2013`
+__Allgemeine Hochschulreife, Berufsgymnasium Ravensberg Kiel.__
 
-`2012`
-President, *Royal Society*, London, UK
+`2013 - 2015`
+__2013 - 2015  Geowissenschaften__
 
-Associate, *French Academy of Science*, Paris, France
+`2015 - 2019`
+__Hilfswissenschaftler - Administration von Datenbanken__
 
+`Feb - August 2019` 
+__Werkstudent - PHP/Linux Programmierer bei Bentomax GmbH__
 
+`2015 - 2019`
+__2015 - 2019 Archäoinformatik - Abgang ohne Abschluss__
 
-## Publications
+`2019 - Juli 2021`
+__2015 - 2019 IT - Techniker und Berater bei Bentomax GmbH - Projektbasiert im Forschungsinstitut GERICS - HEREON__
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Zertifikate
 
-### Journals
+`2021`
+Linuxzertifikat LPIC-1 
+`vsl. April 2021`
+Linuxzertifikat LPIC-2
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+### Sprachkenntnisse
+Duetsch, Muttersprache
+Englisch, Verhandlungssicher
 
-`1669`
-Lectiones opticæ.
+### Führerschein
+Klasse B
 
-etc. etc. etc.
+### Programmiersprachen und weiteres
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+Aktuell:
+Bash
+Vorher:
+Python, PHP
+weiteres:
+YAML, Mardkdown, GIT
