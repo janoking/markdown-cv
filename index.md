@@ -64,7 +64,7 @@ Klasse B
 
 gut:
 Bash
-anfänger:
+Anfänger:
 Python, PHP
 weiteres:
 YAML, Mardkdown, GIT
