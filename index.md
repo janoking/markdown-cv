@@ -42,7 +42,7 @@ __Hilfswissenschaftler - Administration von Datenbanken__
 __Werkstudent - PHP/Linux Programmierer bei Bentomax GmbH__
 
 `2015 - 2019`
-__CAU Kiel - Archäoinformatik - Abgang ohne Abschluss__
+__CAU Kiel - Informatik und Archöologie - Abgang ohne Abschluss__
 
 `2019 - 2021`
 __IT - Techniker/Administrator Bentomax GmbH
@@ -50,7 +50,7 @@ Projektbasiert im Forschungsinstitut GERICS - HEREON__
 
 ## Zertifikate
 
-`2021`
+`2022`
 Linuxzertifikat LPIC-1 
 
 ### Sprachkenntnisse
@@ -62,9 +62,9 @@ Klasse B
 
 ### Programmiersprachen und weiteres
 
-Aktuell:
+gut:
 Bash
-Vorher:
+anfänger:
 Python, PHP
 weiteres:
 YAML, Mardkdown, GIT
